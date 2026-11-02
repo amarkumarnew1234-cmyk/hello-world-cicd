@@ -1,3 +1,4 @@
+# Hello World application for DevOps CI/CD lab
 def hello_world():
     return "Hello, DevOps!"
 
