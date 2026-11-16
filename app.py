@@ -1,3 +1,5 @@
+# Trigger pull request CI check
+# Feature update for pull request workflow test
 # Hello World application for DevOps CI/CD lab
 # Feature update for pull request workflow test
 
