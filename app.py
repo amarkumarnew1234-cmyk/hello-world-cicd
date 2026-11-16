@@ -1,3 +1,4 @@
+# Feature update for pull request workflow test
 # Hello World application for DevOps CI/CD lab
 
 def hello_world():
